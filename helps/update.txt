@@ -1,0 +1,4 @@
+t     - Tick the todo
+r     - Rename the todo
+d     - Delte the todo
+Enter - Exit find mode

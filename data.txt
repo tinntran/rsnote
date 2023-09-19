@@ -1,2 +1,1 @@
 0|Create a todo|X
-1|No.|X
